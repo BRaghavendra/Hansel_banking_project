@@ -6,7 +6,9 @@ public class Ui_base {
 
 	public static void get_url(String browser_name) {
 		Driver.getBrowser(browser_name);
+		System.out.println("Maximize window");
 		Driver.driver.manage().window().maximize();
+		System.out.println("Navigate to url");
 		Driver.driver.get(Get_Env_Prop.ui_url);
 		Driver.driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	}

@@ -26,7 +26,7 @@ public class Driver {
 							+ "\\Browser_drivers\\geckodriver.exe");
 			driver = new FirefoxDriver();
 		}
-
+		System.out.println(""+browser_name+" selected");
 		return driver;
 	}
 }
