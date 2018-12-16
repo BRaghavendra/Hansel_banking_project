@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="tests.CustomerLoginTest">
+        <methods>
+          <include name="navigate_home_page"/>
+          <include name="verify_acc_details"/>
+          <include name="verify_customer_successful_login_message"/>
+          <include name="verify_withdraw_error_message"/>
+          <include name="manager_login"/>
+          <include name="verify_diff_currency_type_acc_details"/>
+          <include name="verify_deposit_withdraw_diff_currency_type_acc_details"/>
+          <include name="verify_multiple_deposit_withdraw_actions"/>
+          <include name="verify_withdraw_successful"/>
+          <include name="Verify_open_account_message_by_customer_login"/>
+          <include name="open_browser"/>
+          <include name="verify_deposit_successful"/>
+          <include name="quit_driver"/>
+          <include name="verify_multiple_deposit_successful"/>
+          <include name="verify_multiple_withdraw_successful"/>
+          <include name="verify_same_currency_type_acc_details"/>
+        </methods>
+      </class> <!-- tests.CustomerLoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
