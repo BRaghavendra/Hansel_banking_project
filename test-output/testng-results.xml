@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="27" passed="27">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="603724" started-at="2018-12-16T10:51:10Z" finished-at="2018-12-16T11:01:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="603724" started-at="2018-12-16T10:51:10Z" finished-at="2018-12-16T11:01:14Z">
+      <class name="tests.CustomerLoginTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="open_browser" is-config="true" duration-ms="9984" started-at="2018-12-16T10:52:32Z" finished-at="2018-12-16T10:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="manager_login" is-config="true" duration-ms="2975" started-at="2018-12-16T10:52:42Z" finished-at="2018-12-16T10:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="Verify_open_account_message_by_customer_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="Verify_open_account_message_by_customer_login" duration-ms="6682" started-at="2018-12-16T10:52:45Z" finished-at="2018-12-16T10:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_open_account_message_by_customer_login -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="navigate_home_page" is-config="true" duration-ms="408" started-at="2018-12-16T10:52:51Z" finished-at="2018-12-16T10:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="manager_login" is-config="true" duration-ms="291" started-at="2018-12-16T10:52:52Z" finished-at="2018-12-16T10:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_acc_details()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="verify_acc_details" duration-ms="5039" started-at="2018-12-16T10:52:52Z" finished-at="2018-12-16T10:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_acc_details -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="navigate_home_page" is-config="true" duration-ms="394" started-at="2018-12-16T10:52:57Z" finished-at="2018-12-16T10:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="manager_login" is-config="true" duration-ms="336" started-at="2018-12-16T10:52:57Z" finished-at="2018-12-16T10:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_customer_successful_login_message()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="verify_customer_successful_login_message" duration-ms="5410" started-at="2018-12-16T10:52:58Z" finished-at="2018-12-16T10:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_customer_successful_login_message -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="navigate_home_page" is-config="true" duration-ms="422" started-at="2018-12-16T10:53:03Z" finished-at="2018-12-16T10:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="manager_login" is-config="true" duration-ms="307" started-at="2018-12-16T10:53:04Z" finished-at="2018-12-16T10:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_diff_currency_type_acc_details()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="verify_diff_currency_type_acc_details" duration-ms="11302" started-at="2018-12-16T10:53:04Z" finished-at="2018-12-16T10:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_diff_currency_type_acc_details -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="navigate_home_page" is-config="true" duration-ms="557" started-at="2018-12-16T10:53:15Z" finished-at="2018-12-16T10:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="manager_login" is-config="true" duration-ms="499" started-at="2018-12-16T10:53:16Z" finished-at="2018-12-16T10:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_same_currency_type_acc_details()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="verify_same_currency_type_acc_details" duration-ms="9966" started-at="2018-12-16T10:53:16Z" finished-at="2018-12-16T10:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_same_currency_type_acc_details -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="navigate_home_page" is-config="true" duration-ms="395" started-at="2018-12-16T10:53:26Z" finished-at="2018-12-16T10:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.CustomerLoginTest@5b275dab]" name="quit_driver" is-config="true" duration-ms="609" started-at="2018-12-16T10:53:27Z" finished-at="2018-12-16T10:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.CustomerLoginTest -->
+      <class name="tests.OpenAccountTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="open_browser" is-config="true" duration-ms="8324" started-at="2018-12-16T11:00:49Z" finished-at="2018-12-16T11:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="manager_login" is-config="true" duration-ms="1635" started-at="2018-12-16T11:00:58Z" finished-at="2018-12-16T11:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="open_customer_account()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="open_customer_account" duration-ms="6272" started-at="2018-12-16T11:00:59Z" finished-at="2018-12-16T11:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_customer_account -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="navigate_home_page" is-config="true" duration-ms="174" started-at="2018-12-16T11:01:06Z" finished-at="2018-12-16T11:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="manager_login" is-config="true" duration-ms="311" started-at="2018-12-16T11:01:06Z" finished-at="2018-12-16T11:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_diff_currency_type_acc_details()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="verify_diff_currency_type_acc_details" duration-ms="6671" started-at="2018-12-16T11:01:06Z" finished-at="2018-12-16T11:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_diff_currency_type_acc_details -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="navigate_home_page" is-config="true" duration-ms="181" started-at="2018-12-16T11:01:13Z" finished-at="2018-12-16T11:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.OpenAccountTest@5e5792a0]" name="quit_driver" is-config="true" duration-ms="649" started-at="2018-12-16T11:01:13Z" finished-at="2018-12-16T11:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.OpenAccountTest -->
+      <class name="tests.AddCustomerTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.AddCustomerTest@29774679]" name="open_browser" is-config="true" duration-ms="9725" started-at="2018-12-16T10:57:08Z" finished-at="2018-12-16T10:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.AddCustomerTest@29774679]" name="manager_login" is-config="true" duration-ms="1930" started-at="2018-12-16T10:57:18Z" finished-at="2018-12-16T10:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="add_customer()[pri:0, instance:tests.AddCustomerTest@29774679]" name="add_customer" duration-ms="3481" started-at="2018-12-16T10:57:20Z" finished-at="2018-12-16T10:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_customer -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.AddCustomerTest@29774679]" name="navigate_home_page" is-config="true" duration-ms="164" started-at="2018-12-16T10:57:23Z" finished-at="2018-12-16T10:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.AddCustomerTest@29774679]" name="manager_login" is-config="true" duration-ms="304" started-at="2018-12-16T10:57:23Z" finished-at="2018-12-16T10:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="create_same_customer_with_diff_pincode()[pri:0, instance:tests.AddCustomerTest@29774679]" name="create_same_customer_with_diff_pincode" duration-ms="3129" started-at="2018-12-16T10:57:24Z" finished-at="2018-12-16T10:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_same_customer_with_diff_pincode -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.AddCustomerTest@29774679]" name="navigate_home_page" is-config="true" duration-ms="157" started-at="2018-12-16T10:57:27Z" finished-at="2018-12-16T10:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.AddCustomerTest@29774679]" name="manager_login" is-config="true" duration-ms="302" started-at="2018-12-16T10:57:27Z" finished-at="2018-12-16T10:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="duplicate_customer_error_validation()[pri:0, instance:tests.AddCustomerTest@29774679]" name="duplicate_customer_error_validation" duration-ms="2814" started-at="2018-12-16T10:57:27Z" finished-at="2018-12-16T10:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicate_customer_error_validation -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.AddCustomerTest@29774679]" name="navigate_home_page" is-config="true" duration-ms="160" started-at="2018-12-16T10:57:30Z" finished-at="2018-12-16T10:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.AddCustomerTest@29774679]" name="quit_driver" is-config="true" duration-ms="569" started-at="2018-12-16T10:57:30Z" finished-at="2018-12-16T10:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.AddCustomerTest -->
+      <class name="tests.TransactionsTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.TransactionsTest@61832929]" name="open_browser" is-config="true" duration-ms="9725" started-at="2018-12-16T10:53:27Z" finished-at="2018-12-16T10:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.TransactionsTest@61832929]" name="manager_login" is-config="true" duration-ms="2079" started-at="2018-12-16T10:53:37Z" finished-at="2018-12-16T10:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_customer_account_transactions()[pri:0, instance:tests.TransactionsTest@61832929]" name="verify_customer_account_transactions" duration-ms="21040" started-at="2018-12-16T10:53:39Z" finished-at="2018-12-16T10:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_customer_account_transactions -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.TransactionsTest@61832929]" name="navigate_home_page" is-config="true" duration-ms="377" started-at="2018-12-16T10:54:00Z" finished-at="2018-12-16T10:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.TransactionsTest@61832929]" name="manager_login" is-config="true" duration-ms="312" started-at="2018-12-16T10:54:00Z" finished-at="2018-12-16T10:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_deposit_withdraw_diff_currency_type_acc_details()[pri:0, instance:tests.TransactionsTest@61832929]" name="verify_deposit_withdraw_diff_currency_type_acc_details" duration-ms="30684" started-at="2018-12-16T10:54:01Z" finished-at="2018-12-16T10:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_deposit_withdraw_diff_currency_type_acc_details -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.TransactionsTest@61832929]" name="navigate_home_page" is-config="true" duration-ms="431" started-at="2018-12-16T10:54:31Z" finished-at="2018-12-16T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.TransactionsTest@61832929]" name="manager_login" is-config="true" duration-ms="338" started-at="2018-12-16T10:54:32Z" finished-at="2018-12-16T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_reset_transactions()[pri:0, instance:tests.TransactionsTest@61832929]" name="verify_reset_transactions" duration-ms="98460" started-at="2018-12-16T10:54:32Z" finished-at="2018-12-16T10:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_reset_transactions -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.TransactionsTest@61832929]" name="navigate_home_page" is-config="true" duration-ms="383" started-at="2018-12-16T10:56:11Z" finished-at="2018-12-16T10:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.TransactionsTest@61832929]" name="manager_login" is-config="true" duration-ms="299" started-at="2018-12-16T10:56:11Z" finished-at="2018-12-16T10:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_transactions_from_last_10_days()[pri:0, instance:tests.TransactionsTest@61832929]" name="verify_transactions_from_last_10_days" duration-ms="55456" started-at="2018-12-16T10:56:11Z" finished-at="2018-12-16T10:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_transactions_from_last_10_days -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.TransactionsTest@61832929]" name="navigate_home_page" is-config="true" duration-ms="431" started-at="2018-12-16T10:57:07Z" finished-at="2018-12-16T10:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.TransactionsTest@61832929]" name="quit_driver" is-config="true" duration-ms="823" started-at="2018-12-16T10:57:07Z" finished-at="2018-12-16T10:57:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.TransactionsTest -->
+      <class name="tests.CustomerListTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="open_browser" is-config="true" duration-ms="8433" started-at="2018-12-16T10:57:31Z" finished-at="2018-12-16T10:57:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="1967" started-at="2018-12-16T10:57:39Z" finished-at="2018-12-16T10:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="Create_customer()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="Create_customer" duration-ms="3246" started-at="2018-12-16T10:57:41Z" finished-at="2018-12-16T10:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_customer -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="172" started-at="2018-12-16T10:57:44Z" finished-at="2018-12-16T10:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="288" started-at="2018-12-16T10:57:45Z" finished-at="2018-12-16T10:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="delete_bulk_customer()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="delete_bulk_customer" duration-ms="88530" started-at="2018-12-16T10:57:45Z" finished-at="2018-12-16T10:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_bulk_customer -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="217" started-at="2018-12-16T10:59:13Z" finished-at="2018-12-16T10:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="288" started-at="2018-12-16T10:59:14Z" finished-at="2018-12-16T10:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="delete_customer()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="delete_customer" duration-ms="21964" started-at="2018-12-16T10:59:14Z" finished-at="2018-12-16T10:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_customer -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="219" started-at="2018-12-16T10:59:36Z" finished-at="2018-12-16T10:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="574" started-at="2018-12-16T10:59:36Z" finished-at="2018-12-16T10:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="delete_customer_using_account_number()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="delete_customer_using_account_number" duration-ms="44740" started-at="2018-12-16T10:59:37Z" finished-at="2018-12-16T11:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_customer_using_account_number -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="209" started-at="2018-12-16T11:00:21Z" finished-at="2018-12-16T11:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="308" started-at="2018-12-16T11:00:22Z" finished-at="2018-12-16T11:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="validate_customer_details_using_account_number()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="validate_customer_details_using_account_number" duration-ms="3008" started-at="2018-12-16T11:00:22Z" finished-at="2018-12-16T11:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_customer_details_using_account_number -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="170" started-at="2018-12-16T11:00:25Z" finished-at="2018-12-16T11:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="319" started-at="2018-12-16T11:00:25Z" finished-at="2018-12-16T11:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_customer_count_with_same_firstname()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="verify_customer_count_with_same_firstname" duration-ms="6865" started-at="2018-12-16T11:00:25Z" finished-at="2018-12-16T11:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_customer_count_with_same_firstname -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="182" started-at="2018-12-16T11:00:32Z" finished-at="2018-12-16T11:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="319" started-at="2018-12-16T11:00:33Z" finished-at="2018-12-16T11:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_customer_count_with_same_lastname()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="verify_customer_count_with_same_lastname" duration-ms="7152" started-at="2018-12-16T11:00:33Z" finished-at="2018-12-16T11:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_customer_count_with_same_lastname -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="172" started-at="2018-12-16T11:00:40Z" finished-at="2018-12-16T11:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="manager_login" is-config="true" duration-ms="323" started-at="2018-12-16T11:00:40Z" finished-at="2018-12-16T11:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_customer_count_with_same_postcode()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="verify_customer_count_with_same_postcode" duration-ms="8119" started-at="2018-12-16T11:00:40Z" finished-at="2018-12-16T11:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_customer_count_with_same_postcode -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="navigate_home_page" is-config="true" duration-ms="175" started-at="2018-12-16T11:00:49Z" finished-at="2018-12-16T11:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.CustomerListTest@3ffc5af1]" name="quit_driver" is-config="true" duration-ms="702" started-at="2018-12-16T11:00:49Z" finished-at="2018-12-16T11:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.CustomerListTest -->
+      <class name="tests.WithdrawTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="open_browser" is-config="true" duration-ms="16253" started-at="2018-12-16T10:51:10Z" finished-at="2018-12-16T10:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="manager_login" is-config="true" duration-ms="1993" started-at="2018-12-16T10:51:26Z" finished-at="2018-12-16T10:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_multiple_withdraw_successful()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="verify_multiple_withdraw_successful" duration-ms="17104" started-at="2018-12-16T10:51:28Z" finished-at="2018-12-16T10:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_multiple_withdraw_successful -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="navigate_home_page" is-config="true" duration-ms="367" started-at="2018-12-16T10:51:45Z" finished-at="2018-12-16T10:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="manager_login" is-config="true" duration-ms="284" started-at="2018-12-16T10:51:46Z" finished-at="2018-12-16T10:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_withdraw_error_message()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="verify_withdraw_error_message" duration-ms="7028" started-at="2018-12-16T10:51:46Z" finished-at="2018-12-16T10:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_withdraw_error_message -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="navigate_home_page" is-config="true" duration-ms="551" started-at="2018-12-16T10:51:53Z" finished-at="2018-12-16T10:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="manager_login" is-config="true" duration-ms="406" started-at="2018-12-16T10:51:54Z" finished-at="2018-12-16T10:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_withdraw_successful()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="verify_withdraw_successful" duration-ms="7801" started-at="2018-12-16T10:51:54Z" finished-at="2018-12-16T10:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_withdraw_successful -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="navigate_home_page" is-config="true" duration-ms="452" started-at="2018-12-16T10:52:02Z" finished-at="2018-12-16T10:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.WithdrawTest@4501b7af]" name="quit_driver" is-config="true" duration-ms="655" started-at="2018-12-16T10:52:02Z" finished-at="2018-12-16T10:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.WithdrawTest -->
+      <class name="tests.DepositTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:tests.DepositTest@523884b2]" name="open_browser" is-config="true" duration-ms="9299" started-at="2018-12-16T10:52:03Z" finished-at="2018-12-16T10:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.DepositTest@523884b2]" name="manager_login" is-config="true" duration-ms="2147" started-at="2018-12-16T10:52:12Z" finished-at="2018-12-16T10:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_deposit_successful()[pri:0, instance:tests.DepositTest@523884b2]" name="verify_deposit_successful" duration-ms="8965" started-at="2018-12-16T10:52:14Z" finished-at="2018-12-16T10:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_deposit_successful -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.DepositTest@523884b2]" name="navigate_home_page" is-config="true" duration-ms="360" started-at="2018-12-16T10:52:23Z" finished-at="2018-12-16T10:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="manager_login()[pri:0, instance:tests.DepositTest@523884b2]" name="manager_login" is-config="true" duration-ms="295" started-at="2018-12-16T10:52:24Z" finished-at="2018-12-16T10:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manager_login -->
+        <test-method status="PASS" signature="verify_multiple_deposit_successful()[pri:0, instance:tests.DepositTest@523884b2]" name="verify_multiple_deposit_successful" duration-ms="6768" started-at="2018-12-16T10:52:24Z" finished-at="2018-12-16T10:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_multiple_deposit_successful -->
+        <test-method status="PASS" signature="navigate_home_page()[pri:0, instance:tests.DepositTest@523884b2]" name="navigate_home_page" is-config="true" duration-ms="415" started-at="2018-12-16T10:52:31Z" finished-at="2018-12-16T10:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_home_page -->
+        <test-method status="PASS" signature="quit_driver()[pri:0, instance:tests.DepositTest@523884b2]" name="quit_driver" is-config="true" duration-ms="490" started-at="2018-12-16T10:52:31Z" finished-at="2018-12-16T10:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit_driver -->
+      </class> <!-- tests.DepositTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
